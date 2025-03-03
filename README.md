@@ -1,0 +1,2 @@
+# cassidoo
+Cassidoo newsletter solutions
